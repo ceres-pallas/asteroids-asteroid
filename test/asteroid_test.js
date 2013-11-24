@@ -19,5 +19,11 @@ describe('Asteroid', function(){
 	it('should call the initalizer', function(done){
 	    var asteroid = new Asteroid(function(){ done(); });
 	});
+
+	it('should call the initalizer with the asteroid', function(){
+	    var asteroid = new Asteroid(function(asteroid){
+		expect(asteroid).to.exist;
+	    });
+	});
     });
 });
