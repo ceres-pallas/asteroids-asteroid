@@ -24,6 +24,6 @@
     "mocha": "~1.14.0"
   },
   "dependencies": {
-    "asteroids-velocity": "0.1.0"
+    "asteroids-velocity": "0.2.0"
   }
 }
