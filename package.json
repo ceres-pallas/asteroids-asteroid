@@ -1,0 +1,22 @@
+{
+  "name": "asteroids-asteroid",
+  "version": "0.0.0",
+  "description": "The infamous asteroid in the Asteroids world",
+  "main": "lib/asteroid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ceres-pallas/asteroids-asteroid.git"
+  },
+  "keywords": [
+    "asteroids",
+    "asteroid"
+  ],
+  "author": "Daan van Berkel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceres-pallas/asteroids-asteroid/issues"
+  }
+}
