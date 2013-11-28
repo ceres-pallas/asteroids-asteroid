@@ -1,6 +1,6 @@
 {
   "name": "asteroids-asteroid",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "The infamous asteroid in the Asteroids world",
   "main": "lib/asteroid.js",
   "scripts": {
