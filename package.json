@@ -1,6 +1,6 @@
 {
   "name": "asteroids-asteroid",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "The infamous asteroid in the Asteroids world",
   "main": "lib/asteroid.js",
   "scripts": {
@@ -24,6 +24,6 @@
     "mocha": "~1.14.0"
   },
   "dependencies": {
-    "asteroids-velocity": "0.3.0"
+    "asteroids-velocity": "0.4.0"
   }
 }
